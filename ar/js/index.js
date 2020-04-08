@@ -133,30 +133,34 @@ Since: 06/08/2016
 		};
 
 		$scope.goToFacebook = function(){
-			document.location.assign("https://www.facebook.com/mzaitoon90");
+			document.location.assign("https://www.facebook.com/mohamedmzaitoon21");
 		};
  $scope.goToTwitter = function(){
-			document.location.assign("https://www.twitter.com/mzaitoon90");
+			document.location.assign("https://www.twitter.com/mohamedmzaitoon");
 		};
  $scope.goToInstagram = function(){
-			document.location.assign("https://www.instagram.com/mohamedzaitoon90");
+			document.location.assign("https://www.instagram.com/mohamedmzaitoon21");
 		};
 $scope.goToYoutube = function(){
-			document.location.assign("https://www.youtube.com/channel/UCmHUIM1cmQvTfZamRfDqH-w");
+			document.location.assign("https://www.youtube.com/channel/UCGmUirJLyL0CQ-uQi8-Z81Q");
 		};
+		
 $scope.goToWhatsApp = function(){
-			document.location.assign("https://wa.me/201554257297");
+			document.location.assign("https://wa.me/201557817621");
 		};
 
 		$scope.goToGithub = function(){
-			document.location.assign("https://github.com/mohamed-zaitoon");
+			document.location.assign("https://github.com/mohamed-m-zaitoon");
+		};
+$scope.goToTelegram = function(){
+			document.location.assign("https://t.me/mohamedmzaitoon21");
 		};
 
 		$scope.sendMail = function(){
-    		$window.location.href = "mailto:mzaitoon90@gmail.com";
+    		$window.location.href = "mailto:mohamedmzaitoon21@gmail.com";
 		};
 		$scope.callMobile = function(){
-    		$window.location.href = "tel:+201554257297";
+    		$window.location.href = "tel:+201557817621";
 		};
 		
 
