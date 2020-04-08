@@ -153,7 +153,7 @@ $scope.goToWhatsApp = function(){
 			document.location.assign("https://github.com/mohamed-m-zaitoon");
 		};
 $scope.goToTelegram = function(){
-			document.location.assign("https://te.me/mohamedmzaitoon21");
+			document.location.assign("https://t.me/mohamedmzaitoon21");
 		};
 
 		$scope.sendMail = function(){
