@@ -133,16 +133,13 @@ Since: 06/08/2016
 		};
 
 		$scope.goToFacebook = function(){
-			document.location.assign("https://www.facebook.com/mohamedmzaitoon21");
+			document.location.assign("https://www.facebook.com/mohamedmzaitoon22");
 		};
  $scope.goToTwitter = function(){
 			document.location.assign("https://www.twitter.com/mohamedmzaitoon");
 		};
  $scope.goToInstagram = function(){
-			document.location.assign("https://www.instagram.com/mohamedmzaitoon21");
-		};
-$scope.goToYoutube = function(){
-			document.location.assign("https://www.youtube.com/channel/UCGmUirJLyL0CQ-uQi8-Z81Q");
+			document.location.assign("https://www.instagram.com/mohamedmzaitoon22");
 		};
 		
 $scope.goToWhatsApp = function(){
@@ -150,14 +147,14 @@ $scope.goToWhatsApp = function(){
 		};
 
 		$scope.goToGithub = function(){
-			document.location.assign("https://github.com/mohamed-m-zaitoon");
+			document.location.assign("https://github.com/mohamedmzaitoon22");
 		};
 $scope.goToTelegram = function(){
-			document.location.assign("https://t.me/mohamedmzaitoon21");
+			document.location.assign("https://t.me/mohamedmzaitoon22");
 		};
 
 		$scope.sendMail = function(){
-    		$window.location.href = "mailto:mohamedmzaitoon21@gmail.com";
+    		$window.location.href = "mailto:mohamedmzaitoon22@gmail.com";
 		};
 		$scope.callMobile = function(){
     		$window.location.href = "tel:+201557817621";
